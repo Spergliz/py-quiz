@@ -1,6 +1,6 @@
 
 #score
-score = 0 
+int(score = 0)
 
 #title
 print("welcome to my quiz")
@@ -12,4 +12,7 @@ if Question1 == "tux" or "Tux":
 else: 
     print("wrong")
     
-    #Q2
+    #Q2 
+    Question2 = input("what is 3+2")
+    if Question2 == 5 or "five": 
+        print
