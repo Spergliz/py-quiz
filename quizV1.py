@@ -29,7 +29,7 @@ else:
     print("wrong")
 
 #Q4
-Question4 = input(": ")
+Question4 = input(" : ")
 if Question4.lower() == "":
     print("correct")
     score = score + 1
