@@ -1,4 +1,3 @@
-
 # score
 score = 0
 
@@ -27,16 +26,9 @@ if Question3.lower() == "linus":
     score = score + 1
 else:
     print("wrong")
-
-<<<<<<< HEAD
-#Q4
-Question4 = input(" : ")
-if Question4.lower() == "":
-=======
 # Q4
 Question4 = input("what genre is the duo BLACK DRESES:  ")
 if Question4.lower() == "eletro industrial" or Question4.lower() == "industrial":
->>>>>>> 130be3e9fdac2a955c0c64d3a2bb18a542131abf
     print("correct")
     score = score + 1
 else:
